@@ -83,6 +83,8 @@ The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) is an open 
 - [mastanley13/GoHighLevel-MCP](https://github.com/mastanley13/GoHighLevel-MCP) — MCP server for GoHighLevel CRM automation via AI — manage contacts, pipelines, and workflows through natural language.
 - [supabase/mcp](https://github.com/supabase/mcp) — Official Supabase MCP server for database automation, enabling AI agents to query, insert, and manage data.
 
+- [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server) — Official hosted CRM MCP for retrieving contacts, deals, lists and workflows, and creating contacts in approved workspaces via OAuth with PKCE; requires an eligible paid FirstSales plan.
+
 > **Tip:** Browse [Anthropic's MCP documentation](https://modelcontextprotocol.io/introduction) for the full specification and server development guides.
 
 ## Video and Content Automation
